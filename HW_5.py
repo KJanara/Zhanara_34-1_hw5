@@ -1,0 +1,4 @@
+import logic
+
+logic.main()
+
